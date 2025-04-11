@@ -1,0 +1,13 @@
+Label
+Control
+CanvasLayer
+AudioStreamPlayer
+AudioStreamPlayer2D
+StaticBody3D
+OmniLight3D
+CollisionShape3D
+RigidBody3D
+Camera3D
+CSGBox3D
+CSGCylinder3D
+MeshInstance3D

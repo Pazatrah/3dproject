@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b8qnywyehsb4m"]
+
+[ext_resource type="AudioStream" uid="uid://dha16h2ujmhgo" path="res://music/Смешарики. Мелодия. Грустная флейта..wav" id="1_kfr70"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_kfr70")
+volume_db = -12.18
+autoplay = true
